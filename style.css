@@ -1,0 +1,28 @@
+.googlelens{
+    color: aqua;
+    float: none;
+}
+
+.vs{
+ color: blueviolet;
+ float: none;
+}
+
+.mobilenet{
+    color: blue;
+    float: none;
+    border: 10px;
+    border-radius: 15px;
+}
+
+.button1{
+    float: left;
+}
+
+.button2{
+    float: left;
+}
+
+.button4{
+    float:left
+}
